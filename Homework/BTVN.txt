@@ -1,0 +1,12 @@
+BTVN:
+
+Cho dãy số sau: 268, 373, 303, 25, 57, 15, 161, 104, 188, 381, 88, 410, 264, 150, 36 , 130
+
+1. Thêm lần lượt dãy số trên vào cây đỏ đen, chụp cây hoàn chỉnh sau cùng. 
+
+2. Tính chiều cao tối đa mà cây có thể đạt được
+
+3. Lần lượt xóa các node 268, 150, 104. Giải thích từng bước xóa node.
+
+Note: Mọi người dùng công cụ gì để vẽ cây cũng đc, ưu tiên rõ ràng dễ nhìn.
+
