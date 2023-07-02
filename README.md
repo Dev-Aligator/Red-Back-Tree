@@ -7,7 +7,7 @@
 ## **Thành viên nhóm - Nhóm 2**
 |**Họ và tên**      |**MSSV**|**Email**             |
 |:------------------|:------:|:--------------------:|
-|Phan Thanh Quang   	 |21521413|21521413@gm.uit.edu.vn|
+|Nguyễn Hoàng Tân   	 |21521413|21521413@gm.uit.edu.vn|
 |Nguyễn Ngọc Quang Huy   |20521401|20521401@gm.uit.edu.vn|
 |Lê Huỳnh Khánh Duy|21521995|21521995@gm.uit.edu.vn|
 ## **Chủ đề**
